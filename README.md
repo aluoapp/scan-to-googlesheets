@@ -82,11 +82,8 @@ We value your privacy. This extension:
 Start using Scan2Sheet and make document processing easier!
 
 <p align="center">
-  <img src="download-1.png" alt="Scan to Google Sheets " />
+  <img src="scan2sheet-demo1.png" alt="Scan to Google Sheets " />
 </p>
 <p align="center">
-  <img src="download-2.png" alt="Scan to Google Sheets " />
-</p>
-<p align="center">
-  <img src="download-3.png" alt="Scan to Google Sheets " />
+  <img src="scan2sheet-demo2.png" alt="Scan to Google Sheets " />
 </p>
