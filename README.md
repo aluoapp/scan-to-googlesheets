@@ -1,4 +1,4 @@
-# Scan2Sheet - Powered by ChatGPT
+# <img src="logo.png" alt="Scan to Google Sheets " width='24px' /> Scan2Sheet - Powered by ChatGPT
 
 Effortlessly convert handwritten tables and scanned documents to Google Sheets, powered by ChatGPT and Google Gemini AI.
 
